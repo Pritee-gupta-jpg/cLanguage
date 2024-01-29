@@ -1,0 +1,1 @@
+the text file is created using the putc function for inserting text in this file.
